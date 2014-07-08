@@ -1,0 +1,62 @@
+{
+  "bio": {
+    "firstName": "Derek",
+    "lastName": "Hopper",
+    "email": {
+      "work": "derek@idealprojectgroup.com",
+      "personal": "hopper.derek@gmail.com"
+    },
+    "phone": {
+      "work": "",
+      "personal": ""
+    },
+    "summary": "",
+    "location": {
+      "city": "Fort Wayne",
+      "countryCode": "US",
+      "state": "Indiana"
+    },
+    "websites": {
+      "blog": "http://derekjhopper.com"
+    },
+    "profiles": {
+      "github": "djhopper01",
+      "twitter": "derekjhopper"
+    }
+  },
+  "work": [
+    {
+      "company": "Ideal Project Group",
+      "position": "Lead Engineer",
+      "website": "http://idealprojectgroup.com",
+      "startDate": "2011-11-01",
+      "endDate": "",
+      "summary": "We build Tula Software, the world's best software for independent yoga studios. We also help people build their dreams.",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "startDate": "2006-08-01",
+      "endDate": "2010-05-31",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "CoffeeScript",
+        "Ruby",
+        "Ruby on Rails"
+      ]
+    }
+  ]
+}
