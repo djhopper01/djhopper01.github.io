@@ -4,6 +4,10 @@ contact:
   name: Derek Hopper
   twitter: derekjhopper
   github: djhopper01
+  linkedin: derekhopper
+
+analytics:
+  google: UA-54696823-1
 
 sass:
   style: :compressed
