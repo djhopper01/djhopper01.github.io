@@ -206,3 +206,23 @@ body {
 .continue-post {
   text-align: right;
 }
+
+@media (max-width: 768px) {
+  .post {
+    font-size: 14px;
+    line-height: 26px;
+
+    .posts > li {
+      margin-bottom: 16px;
+      padding-bottom: 16px;
+    }
+  }
+
+  .post-title {
+    font-size: 14px;
+  }
+
+  h2 {
+    font-size: 14px;
+  }
+}
