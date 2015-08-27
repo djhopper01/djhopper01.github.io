@@ -52,10 +52,13 @@
       "keywords": [
         "HTML",
         "CSS",
+        "sass",
         "Javascript",
         "CoffeeScript",
         "Ruby",
-        "Ruby on Rails"
+        "Ruby on Rails",
+        "backbone",
+        "bootstrap"
       ]
     }
   ]
